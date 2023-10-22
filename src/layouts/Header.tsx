@@ -1,4 +1,4 @@
-export default function Header() {
+const Header = () => {
   const styles = {};
 
   return (
@@ -6,4 +6,6 @@ export default function Header() {
       <h1 style={styles}>Slicio</h1>
     </header>
   );
-}
+};
+
+export default Header;
