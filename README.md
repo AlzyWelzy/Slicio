@@ -46,7 +46,7 @@ Slicio is a modern web application that brings you an immersive pizza experience
 
 1. Start the application:
 
-   ```
+   ```bash
    npm start
    ```
 
