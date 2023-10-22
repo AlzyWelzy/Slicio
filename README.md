@@ -30,11 +30,14 @@ Slicio is a modern web application that brings you an immersive pizza experience
 ### Installation
 
 1. Clone the Slicio repository.
-   ```
+
+   ```bash
    git clone https://github.com/AlzyWelzy/Slicio.git
    ```
+
 2. Navigate to the project directory.
 3. Install dependencies:
+
    ```bash
    npm ci
    ```
@@ -42,9 +45,11 @@ Slicio is a modern web application that brings you an immersive pizza experience
 ## Usage
 
 1. Start the application:
+
    ```
    npm start
    ```
+
 2. Open your web browser and access Slicio to:
    - Discover our delectable pizza menu.
    - View detailed information about each pizza.
